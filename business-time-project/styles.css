@@ -1,0 +1,148 @@
+.nav-bar{
+    list-style-type: none;
+    background:linear-gradient(rgba(23, 32, 36, 0.7), rgba(111, 56, 254, 0.894));
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    border: 2px black;
+    justify-content: space-evenly;
+    height: 50px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+a{
+  color: whitesmoke;
+
+}
+body{
+  background:linear-gradient(rgba(181, 21, 21, 0.7), rgba(253, 144, 2, 0.894));
+  height: 800px;
+
+
+}
+#section-1{
+  background:linear-gradient(rgba(179, 26, 26, 0.7), rgba(240, 123, 6, 0.894));
+  color:white;
+  text-align: center;
+  height: 50px;
+  
+
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background:linear-gradient(rgba(255, 128, 0, 0.7), rgba(93, 144, 247, 0.894));
+}
+.container-2 {
+  position: relative;
+  width: 100%;
+}
+
+
+.container-2 img {
+  width: 100%;
+  height: auto;
+}
+
+
+.container-2 .btn-2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container-2 .btn-2:hover {
+  background:linear-gradient(rgba(203, 9, 247, 0.7), rgba(104, 65, 27, 0.894));
+}
+#rock-body{
+  background:black;
+  height: 50px;
+
+
+}
+#rock-sec{
+  background:linear-gradient(rgba(72, 26, 179, 0.7), rgba(12, 9, 7, 0.894));
+  color:white;
+  text-align: center;
+  height: 50px;
+}
+.container-3 {
+  position: relative;
+  width: 100%;
+}
+
+
+.container-3 img {
+  width: 100%;
+  height: auto;
+}
+
+
+.container-3 .btn-3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container-3 .btn-3:hover {
+  background:linear-gradient(rgba(255, 153, 0, 0.7), rgba(253, 228, 1, 0.894));
+}
+#gold-body{
+  background:rgb(246, 206, 87);
+  height: 50px;
+
+
+}
+#gold-sec{
+  background:linear-gradient(rgba(212, 137, 26, 0.7), rgba(224, 201, 25, 0.894));
+  color:white;
+  text-align: center;
+  height: 50px;
+}
+
