@@ -1,5 +1,4 @@
 const readlineSync = require("readline-sync")
-
 const operations = ["add", "sub", "mul", "div"]
 
 const num1 = readlineSync.question("enter first number: ")

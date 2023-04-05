@@ -1,0 +1,103 @@
+body{
+    background:linear-gradient(rgba(0, 255, 106, 0.7), rgba(250, 2, 2, 0.894));
+    height: 800px;
+    display: grid;
+    
+}
+#box1{
+    height: 75px;
+    width: 75px;
+    background-color: white;   
+}
+#box1:hover{
+    background-color: black;
+    border: solid 10px coral;
+    border-top: dotted 20px maroon ;
+    border-radius: 20%;
+    border-left: dotted 20px yellow;
+    border-right: dotted 20px red;
+    border-bottom:dotted 20px rgb(20, 205, 32);
+    opacity: 70%;
+    width: 100px;
+    height: 100px;
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}
+#box2{
+    height: 75px;
+    width: 75px;
+    background-color: red;
+}
+#box2:hover{
+    background:linear-gradient(rgba(255, 0, 247, 0.7), rgba(173, 214, 250, 0.894)); ;
+    border: yellow;
+    border-radius: 70%;
+    width: 100px;
+    height: 100px;
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}
+#box3{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+}
+#box3:hover{
+    background-color: yellow;
+    border: dotted 5px blue;
+    border-radius: 20%;
+    opacity: 10%;
+    width: 75px;
+    height: 75px;
+    
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}
+#box4{
+    height: 75px;
+    width: 75px;
+    background-color: purple;
+}
+#box4:hover{
+    background-color: rgb(237, 82, 237);
+    border: dashed 10px rgb(237, 82, 237);
+    border-radius: 30%;
+    width: 30px;
+    height: 30px;
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}
+#box5{
+    height: 75px;
+    width: 75px;
+    background-color: greenyellow;
+}
+#box5:hover{
+    background-color: rgb(23, 114, 28);
+    border: groove 10px rgb(82, 237, 147);
+    border-radius: 30%;
+    width: 60px;
+    height: 60px;
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}
+#box6{
+    height: 75px;
+    width: 75px;
+    background-color:rgb(78, 202, 255) ;
+}
+#box6:hover{
+    background:linear-gradient(rgba(253, 255, 196, 0.7), rgba(2, 184, 250, 0.894));
+    border: inset 20px rgba(253, 255, 196, 0.7);
+    border-radius: 30%;
+    width: 100px;
+    height: 150px;
+    transition-property: all;
+    transition-duration: 1.5s;
+    transition-timing-function: ease-in-out;
+}

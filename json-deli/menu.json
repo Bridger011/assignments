@@ -1,0 +1,59 @@
+{
+    "appitizers":[{
+        "name":"fries",
+        "ingredients": ["salt", "potato","oil"],
+        "description":["fried with LOVE"]
+    },
+    {
+        "name":"chips",
+        "ingredients":["potato","salt", "oil"],
+        "description":["crispy goodness"]
+    }
+    ],
+
+    "cold sandwiches":[{
+        "name":"california cobb",
+        "ingredients":["avacado", "turkey", "mayo", "bread","bacon"],
+        "description":["The taste of california"]
+    },
+    {
+        "name": "ham and  cheddar cheese",
+        "ingredients":["ham"," cheddar cheese","mayo"],
+        "description":["basic but good"]
+    }
+],
+
+    "hot sandwiches":[{
+        "name":"spicy turkey",
+        "ingredients":["peppers","pepper jack cheese", "hot sauce", "turkey", "bacon"],
+        "description":["hottest sandwich in the valley!"]
+    },
+    {
+        "name":"southern BBQ chicken sandwich",
+        "ingredients":["BBQ sauce", "bread", "chicken", " cheddar cheese", "bacon"],
+        "description":["southern made!"]
+    }
+],
+    "desserts":[{
+        "name":"sugar cookie",
+        "ingredients":["A lot of sugar"],
+        "description":["freshly baked with Love and sweetness"]
+    },
+    {
+        "name":"brownie",
+        "ingredients":["frosting","A lot of sugar", "chocolate"],
+        "description":["greatest brownie ever made"]
+    }
+],
+    "drinks":[{
+        "name":"lemonade",
+        "ingredients":["lemons", "A lot of sugar", "water"],
+        "description":["sweet and sour"]
+    },
+    {
+        "name":"apple juice",
+        "ingredients":["apples", "juice"],
+        "description":["many health benefits"]
+    }
+    ]
+}

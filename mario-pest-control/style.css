@@ -1,0 +1,44 @@
+.header{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(255, 0, 0);
+}
+.goomba{
+    margin: 0%;
+}
+.pests{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#goombaImg{
+    height: 125px;
+    width: 100px;
+
+}
+#bombImg{
+    margin-top: 10px;
+    height: 125px;
+    width:100px
+    
+    
+}
+#cheepImg{
+    height: 125px;
+    width: 100px;
+    grid-column: 1;
+    margin-top: 10px;
+
+}
+.images{
+    text-align: center;
+}
+.list{
+    list-style-type: none;
+}
+#footer{
+    background-color: aliceblue;
+
+}

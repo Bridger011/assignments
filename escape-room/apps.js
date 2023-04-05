@@ -6,7 +6,7 @@ const index = readlineSync.keyInSelect (options, 'You are stuck in a room and ha
 
 while (isAlive === true) {
     if(options[index]==='hole'){
-    console.log ('You stuck your hand into the hole and Gordon Ramsay chops it off Then Dave Ramsey gives you financial advice and you die! ')
+    console.log ('You stuck your hand into the hole and Gordon Ramsay chops it off then Dave Ramsey gives you financial advice and you die! ')
  
     isAlive = false
 
